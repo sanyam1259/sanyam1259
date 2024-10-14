@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanyam1259](https://github.com/sanyam1259)
 
-- 💬 Ask me about **Full-Stack Development, Competitive Programming**
+- 💬 Talk to me about **Making difference through Code, Full-Stack Development**
 
 - 📫 How to reach me: **sanyamagarwal7412@gmail.com**
 
