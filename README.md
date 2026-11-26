@@ -1,51 +1,47 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0e75b6,100:61dafb&text=Sanyam%20Agarwal&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=building%20things%20that%20ship&descAlignY=56" width="100%" alt="Sanyam Agarwal" />
 
-<h1 align="center">Hi 👋, I'm Sanyam Agarwal</h1>
-<h3 align="center">A student at Indian Institute of Information Technology, Allahabad</h3>
+## Shipping code, one commit at a time
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam1259&label=Profile%20views&color=0e75b6&style=flat" alt="sanyam1259" /> </p>
+<img align="right" width="240" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanyam1259](https://github.com/sanyam1259)
+- 🏥 Platform dev at **[Even Healthcare](https://even.in)**
+- 🏆 **Expert** on Codeforces
+- 📈 Side quests: tools for Indian equity markets (deal watchers, signal scanners, dashboards)
+- 🎓 IIIT Allahabad alum
+- 📍 Jaipur, Rajasthan
+- 🤝 Up for collaborating on anything full-stack or data-heavy
 
-- 💬 Talk to me about **Making difference through Code, Full-Stack Development**
+<br clear="right" />
 
-- 📫 How to reach me: **sanyamagarwal7412@gmail.com**
+### Tech I reach for
 
-- ⚡ Fun fact: **I'm always learning something new!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanyam-agarwal-a4a385227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyam-agarwal" height="30" width="40" /></a>
+<p>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
+### Find me
+
+<p>
+  <a href="https://www.linkedin.com/in/agarwalsanyam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sanyamagarwal7412@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sanyam1259&label=profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=sanyam1259&count_private=true&show_icons=true&theme=react" />  
-<img width="425" src="https://streak-stats.demolab.com/?user=sanyam1259&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=sanyam1259&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/sanyam1259/github-stats"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanyam1259/sanyam1259/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanyam1259/sanyam1259/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sanyam1259/sanyam1259/output/snake.svg" />
+</picture>
